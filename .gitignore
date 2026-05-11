@@ -13,3 +13,10 @@ __pycache__/
 
 # data folder
 data
+
+# aws iam user access key and aws creds
+aws.csv
+store_index.pem
+
+# rough notepad
+rough.txt

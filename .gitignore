@@ -1,4 +1,15 @@
 # env secrets
 .env
 
+# Python cache files
+__pycache__/
+*.py[cod]
 
+# other Python junk
+*.so
+.Python
+.pytest_cache/
+.ipynb_checkpoints/
+
+# data folder
+data
